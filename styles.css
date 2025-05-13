@@ -1,0 +1,46 @@
+#site-title {
+    font-family: 'Georgia', serif;
+    color: #2a2a72;
+    border-bottom: 2px solid #2a2a72;
+    padding-bottom: 10px;
+}
+
+.job-listing {
+    background-color: #f9f9f9;
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    font-family: 'Arial', sans-serif;
+}
+
+p {
+    color: #444;
+    line-height: 1.6;
+    margin: 10px 0;
+}
+
+.logo {
+    width: 80px;
+    border: 3px solid #2a2a72;
+    padding: 5px;
+    margin-right: 15px;
+    border-radius: 50%;
+}
+
+.job-title {
+    color: #003366;
+    font-size: 1.5em;
+}
+
+.company-name {
+    font-weight: bold;
+    color: #006699;
+}
+
+.footer-text {
+    text-align: center;
+    font-size: 14px;
+    color: gray;
+    margin-top: 40px;
+}
